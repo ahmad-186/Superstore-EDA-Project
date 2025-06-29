@@ -19,6 +19,7 @@ Files
 Insights
 - Technology is the most profitable category
 - Central region shows high sales but low profits due to discounting
+- Furniture has high sales but often negative profit.
 - Discounts above 20% result in losses
 - Sales are increasing steadily from 2014 to 2017
 
@@ -31,3 +32,9 @@ Tools Used
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+How to Run
+1. Clone the repo  
+2. Install required packages:  
+   ```bash
+   pip install pandas matplotlib seaborn
